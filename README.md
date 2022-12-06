@@ -18,12 +18,12 @@
 
 - 💬 Pergunte-me sobre **React, JavaScript, html, css, git.**
 
-- 📫 Como chegar até mim **contatocreed67@gmail.com**
+- 📫 Como chegar até mim **contatocreed67@gmail.com* *
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://codepen.io/pedrocruzdev" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pedrocruzdev" height="30" largura="40" /></a>
-<a href="https://linkedin.com/in/pedro cruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro cruz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pedro-cruz-0b114922a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro cruz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e Ferramentas:</h3>
