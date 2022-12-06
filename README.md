@@ -3,7 +3,7 @@
 
 <p align="left "> <img src="https://komarev.com/ghpvc/?username=bypedrocruzdev&label=Profile%20views&color=0e75b6&style=flat" alt="bypedrocruzdev" /> </p>
 
-<p align="left"> < a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bypedrocruzdev" alt=" bypedrocruzdev" /></a> </p>
+<p align="left"> < a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bypedrocruzdev" alt=" bypedrocruzdev" /> </p>
 
 
 - 🔭 Meu último projeto frontend [Kenzie-hub](https://kenzie-hub-bypedrocruzdev.vercel.app/)
