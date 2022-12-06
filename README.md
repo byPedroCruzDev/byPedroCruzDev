@@ -10,15 +10,15 @@
 
 - 🌱 Atualmente estou aprendendo **Express,postegreSQL e Vue.js**
 
-- 👯 Colaborei com QA neste projeto [DevPath](https://devpath-1lcwfy2ij-eriknegreiros.vercel.app/)
+- 👯 Colaborei como QA neste projeto [DevPath](https://devpath-1lcwfy2ij-eriknegreiros.vercel.app/)
 
 - 💪 meu primeiro projeto backend [CRUD](https://github.com/Kenzie-Academy-Brasil-Developers/m4-entrega-sprint01-pedrocruz)
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https:// github.com/byPedroCruzDev](https://github.com/byPedroCruzDev)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [gitHub](https://github.com/byPedroCruzDev)
 
 - 💬 Pergunte-me sobre **React, JavaScript, html, css, git.**
 
-- 📫 Como chegar até mim **contatocreed67@gmail.com* *
+- 📫 Como chegar até mim **contatocreed67@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
