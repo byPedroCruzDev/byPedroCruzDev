@@ -10,7 +10,7 @@
 
 - 🌱 Atualmente estou aprendendo **Express,postegreSQL e Vue.js**
 
-- 👯 Colaborei como QA neste projeto [DevPath](https://devpath-1lcwfy2ij-eriknegreiros.vercel.app/)
+- 👯 Contribui como QA neste projeto [DevPath](https://devpath-1lcwfy2ij-eriknegreiros.vercel.app/)
 
 - 💪 meu primeiro projeto backend [CRUD](https://github.com/Kenzie-Academy-Brasil-Developers/m4-entrega-sprint01-pedrocruz)
 
