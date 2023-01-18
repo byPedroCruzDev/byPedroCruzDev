@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou o Pedro Cruz!</h1>
-<h3 align="center">Estudante brasileiro de programação, com alguma experiência em desenvolvimento frontend!</h3>
+<h3 align="center">Estudante de programação, com alguma experiência em desenvolvimento frontend!</h3>
 
 <p align="left "> <img src="https://komarev.com/ghpvc/?username=bypedrocruzdev&label=Profile%20views&color=0e75b6&style=flat" alt="bypedrocruzdev" /> </p>
 
