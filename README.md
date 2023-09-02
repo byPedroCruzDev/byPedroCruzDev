@@ -11,7 +11,7 @@
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ff69b4)
 ![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=ff69b4)
-![JavaScript]([https://img.shields.io/badge/Tools-pytest-informational?style=flat&logo=pytest&logoColor=white&color=ff69b4](https://img.shields.io/badge/logo-javascript-blue?logo=javascript))
+![JavaScript]([https://img.shields.io/badge/Tools-pytest-informational?style=flat&logo=pytest&logoColor=white&color=ff69b4](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 ![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=ff69b4)
 ![django](https://img.shields.io/badge/Tools-django-informational?style=flat&logo=django&logoColor=white&color=ff69b4x)
 ![html5](https://img.shields.io/badge/Code-html5-informational?style=flat&logo=html5&logoColor=white&color=ff69b4) 
