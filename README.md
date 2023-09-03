@@ -26,9 +26,9 @@
 <!-- ![](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white&color=4A154B) -->
 
 ## &#x1f4c8; Stats
-[![](https://www.codewars.com/users/M1troll/badges/micro)](https://www.codewars.com/users/BabyCreed)
+[![](https://www.codewars.com/users/BabyCreed/badges/micro)](https://www.codewars.com/users/BabyCreed)
 
 
-<a href="https://github.com/M1troll/M1troll">
+<a href="https://github.com/byPedroCruzDev/byPedroCruzDev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=byPedroCruzDev&show_icons=true&line_height=27&theme=radical" alt="GitHub Stats"/>
 </a>
