@@ -32,6 +32,8 @@
 [![](https://www.codewars.com/users/BabyCreed/badges/micro)](https://www.codewars.com/users/BabyCreed)
 
 
-<a href="https://github.com/byPedroCruzDev/byPedroCruzDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=byPedroCruzDev&show_icons=true&line_height=27&theme=radical" alt="GitHub Stats"/>
-</a>
+<div align="center">
+<a href="https://github.com/byPedroCruzDev">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=melorayssa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melorayssa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
