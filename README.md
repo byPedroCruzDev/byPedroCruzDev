@@ -26,6 +26,7 @@
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect With Me
 <!-- Contacts -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/creed_67)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bypedrocruzdev/)
 <!-- ![](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white&color=4A154B) -->
 
 ## &#x1f4c8; Stats
