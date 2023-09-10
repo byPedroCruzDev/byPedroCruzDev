@@ -5,7 +5,7 @@
 
 ## 🔧 Technologies & Tools
 <!-- OS -->
-<!-- ![Linux](https://img.shields.io/badge/OS-Linux%20Manjaro-informational?style=flat&logo=linux&logoColor=white&color=ff69b4) -->
+[Linux](https://img.shields.io/badge/OS-Linux%20Manjaro-informational?style=flat&logo=linux&logoColor=white&color=ff69b4)
 <!-- ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=ff69b4) -->
 
 
