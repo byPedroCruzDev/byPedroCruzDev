@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff69b4&multiline=true&width=435&height=60&lines=Hi+there%2C+I'm+Pedro+Cruz.;Web-Developer.)](https://git.io/typing-svg)
 
 
-## 🔧 Technologies & Tools
+# 💻 Tech Stack
 <!-- OS -->
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
